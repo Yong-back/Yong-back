@@ -1,4 +1,9 @@
-###### <div><!--Header-->![header](https://camo.githubusercontent.com/ba19186fff5c443f9c55c15784aa8bb31ad5b94a196e9cfbb1a64b053df98026/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d323530c2a7696f6e3d68656164657226746578743d57656c636f6d652126666f6e7453697a653d3730)</div><div align="center"><h1>Hi 👋</h1>
+<!-- Header -->
+<div align="center">
+  <img src="https://camo.githubusercontent.com/ba19186fff5c443f9c55c15784aa8bb31ad5b94a196e9cfbb1a64b053df98026/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d323530c2a7696f6e3d68656164657226746578743d57656c636f6d652126666f6e7453697a653d3730" width="1200"/>
+</div>
+
+###### <div align="center"><h1>Hi 👋</h1></div>
     I aspire to become a developer who designs creative algorithms
     By constantly exploring organizational communication, experience, and technology,
     I strive to turn them into strengths and grow into a better develop
@@ -12,7 +17,7 @@
     ✉️ e-Mail : skathd6406@gamil.com
     
 ###### <div align="center"><h1>기술 [Tech] 💻</h1>
- <div style="display: flex; justify-content: center; transform: translateX(1000px); gap: 10px;">
+ <div align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!-- Flask -->
