@@ -11,12 +11,20 @@
 ## <div align="center"><h1>About Me 👨🏻‍💻</h1>
     ✉️ e-Mail : skathd6406@gamil.com
     
-## 💻기술 [Tech]
-   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><!--Flask--> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <!--Django--><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <!--Linux-->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+## <div align="center"><h1>기술 [Tech] 💻</h1>
+ <div style="display: flex; justify-content: center; transform: translateX(1000px); gap: 10px;">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!-- Flask -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</div>
 
-
-## 🧠깃허브 스탯 [Github Stats]
+## <div align="center"><h1>깃허브 스탯 [Github stat] 🧠</h1>
 [![Yong-back's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong-back)](https://github.com/anuraghazra/github-readme-stats) <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong-back)](https://github.com/anuraghazra/github-readme-stats)
 
